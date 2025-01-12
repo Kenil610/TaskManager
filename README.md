@@ -57,7 +57,6 @@ Task Manager App is a practical task management project that allows users to man
 - MongoDB
 
 
-## Create a .env file in the server directory using the provided .env.example file:
 ## Environment Variables
 - `MONGO_URI`: MongoDB connection string.
 - `JWT_SECRET`: Secret for JWT tokens.
